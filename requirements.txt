@@ -1,0 +1,14 @@
+# Groq / OpenAI SDK
+openai>=1.0.0
+
+# Environment management
+python-dotenv>=1.0.0
+
+# Optional: for JSON validation (standard library can also be used)
+jsonschema>=4.0.0
+
+# Optional: for data manipulation or pretty printing outputs
+pandas>=2.0.0
+
+# Optional: for visualizing conversation (if needed)
+matplotlib>=3.7.0
